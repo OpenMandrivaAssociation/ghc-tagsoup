@@ -4,7 +4,7 @@
 Summary:	Parsing and extracting information from (possibly malformed) HTML/XML documents
 Name:		ghc-%{module}
 Version:	0.12.8
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
